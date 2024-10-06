@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726247853 source:c:\users\avina\videos\c++_practise\atm\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
